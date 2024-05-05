@@ -7,7 +7,9 @@ Title: Exploring Wildlife Trafficking Data
 Github Link: https://github.com/adityagouroju/Exploring-Wildlife-Trafficking-Data
 
 Tableau Dashboard: Tableau Public 
-Links for Tableau : vamshi - [Endangered and Geographic](https://tinyurl.com/vamshi309) , [Seller Similarity](https://tinyurl.com/vamshi30)
+Links for Tableau : Vamshi - [Endangered and Geographic](https://tinyurl.com/vamshi309) , [Seller Similarity](https://tinyurl.com/vamshi30)
+                    Aditya - [Tableau Aditya]([url](https://tinyurl.com/3vrm7z9c))
+                    Aryan - [Tableau Aryan](https://tinyurl.com/cshap3dv)
 
 Guide: Prof. Juliana Freire, NYU
 
